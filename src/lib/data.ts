@@ -62,7 +62,7 @@ export const personalInfo = {
     email: '[sunmicasano@email.com](mailto:sunmicasano@email.com)',
     github: 'https://github.com/Sunmi-CS',
     linkedin: 'https://www.linkedin.com/in/sunmi-casa%C3%B1o-su%C3%A1rez-17ab22346/',
-    siteUrl: 'https://tuportafolio.com',
+    siteUrl: 'https://lab14-scasano-my-portfolio.onrender.com',
     avatar:
     'https://images.unsplash.com/photo-1612288106997-6078c69d5386?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
 };
